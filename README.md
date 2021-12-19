@@ -1,1 +1,1 @@
-# Arduino Flappy Birds Game on LCD Tutorial
+# Flappy Birds on LCD w/ Arduino
