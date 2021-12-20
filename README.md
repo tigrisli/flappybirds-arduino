@@ -21,3 +21,6 @@
 
 ## **2. Install LiquidCrystal I2C Library**
 This code uses the **LiquidCrystal Library by Frank de Brabander** to control the LCD screen. The library can be installed from the Arduino IDE by going to **Sketch > Include Library > Manage Libraries.**
+
+## **3. Upload Code**
+Open the ***flappybirds-lcd-game.ino*** file and upload the code onto the Arduino board!
